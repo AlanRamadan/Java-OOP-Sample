@@ -9,7 +9,7 @@ public class Rectangle extends Shape {
         mHeight = sideLength;
         mWidth = sideLength;
     }
-
+    //overloading
     public Rectangle(int width, int height) {
         mWidth = width;
         mHeight = height;
